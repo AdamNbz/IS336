@@ -40,7 +40,7 @@
 | 3      | 23521305      | Nguyễn Như Quốc        |[Ngnquoc1](https://github.com/Ngnquoc1)               |23521305@gm.uit.edu.vn   |
 | 4      | 23521312      | Tôn Đại Quốc           |[djmeow0407](https://github.com/djmeow0407)           |23521312@gm.uit.edu.vn   |
 | 5      | 23521318      | Nguyễn Lê Phú Quý      |[Adam-quy](https://github.com/Adam-quy)               |23521318@gm.uit.edu.vn   |
-| 6      | 23520847      | Lý Phương Linh         |[...](https://github.com/...)                         |23520847@gm.uit.edu.vn   |
+| 6      | 23520847      | Lý Phương Linh         |[Plinhh08](https://github.com/Plinhh08)               |23520847@gm.uit.edu.vn   |
 
 
 ## SEMINAR
